@@ -74,6 +74,7 @@ class SettingsWindow(QMainWindow):
         sc.setLayout(scl)
 
         gitlink = QLabel('<a href="https://github.com/nosleepfor">Github</a>')
+        gitlink.setOpenExternalLinks(True)
 
 
         save_button = QPushButton('Сохранить')
