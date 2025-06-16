@@ -16,5 +16,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+# TODO
+- [ ] Разбить на файлы
+- [ ] Добавить перевод на английский
+
 # Important thing
 <img src='imgs/cat-meme.gif'>
